@@ -1,2 +1,2 @@
-# Thesis
+# Thesis Supplementary material
 PhD Thesis
